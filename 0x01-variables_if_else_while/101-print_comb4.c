@@ -12,6 +12,7 @@
   * You are not allowed to use any variables of type `char
   * Return: Always 0
   */
+
 int main(void)
 {
 
