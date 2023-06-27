@@ -4,8 +4,7 @@
  *
  * swap_int - swap the value of integers a with b
  *@a: integer one
- *@b: integer two
-*
+ *@b: integer two	
  *Return: void
  */
 
